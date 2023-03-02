@@ -1,4 +1,6 @@
 {
+  "name": "radixdlt-javascript",
+  "version": "1.0.0",
   "bugs": {
     "url": "https://github.com/radixdlt/radixdlt-javascript/issues"
   },
